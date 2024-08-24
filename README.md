@@ -9,24 +9,25 @@
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tushar0761" alt="tushar0761" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tushar0761&row=2&column=4&theme=onestar
+&&margin-w=20&margin-h=15&no-bg=false&&no-frame=true" alt="tushar0761" /></a> </p>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tushar0761&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tushar0761&radius=16&theme=github-compact&area=true&order=5&days=60" height="300" alt="activity-graph graph"  />
 </div>
 
 ---
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar0761&show_icons=true&locale=en" alt="tushar0761" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar0761&show_icons=true&locale=en&theme=dark&hide_border=true&include_all_commits=true" alt="tushar0761" /></p>
 
 
 
 
 
-<div>&nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar0761&" alt="tushar0761" /></div>
+<div>&nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar0761&theme=dark&hide_border=true" alt="tushar0761" /></div>
 
 
 <h3 align="left">Connect with me:</h3>
